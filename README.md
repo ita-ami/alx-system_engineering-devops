@@ -1,1 +1,1 @@
-making a print curent directory script
+making a print curent directory script.
