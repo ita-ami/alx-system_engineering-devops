@@ -1,0 +1,8 @@
+#!/bin/bash
+git status 
+git add *
+git commit -m "adding some files"
+git status
+git push origin master
+git status
+
